@@ -7,5 +7,12 @@ public class HelloWorld {
 		
 	}
 	
+	public void sayGoodbye (){
+		
+		System.out.println("Goodbye World");
+		
+	}
+	
+	
 
 }
